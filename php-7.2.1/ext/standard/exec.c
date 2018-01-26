@@ -63,6 +63,8 @@ static size_t cmd_max_len;
 /* {{{ PHP_MINIT_FUNCTION(exec) */
 PHP_MINIT_FUNCTION(exec)
 {
+
+printf("aiya???");
 #ifdef _SC_ARG_MAX
 	cmd_max_len = sysconf(_SC_ARG_MAX);
 	if ((size_t)-1 == cmd_max_len) {
@@ -527,10 +529,14 @@ PHP_FUNCTION(shell_exec)
 	zend_string *ret;
 	php_stream *stream;
 
+printf("\n");
+printf("\n");
+       printf(command);
 	ZEND_PARSE_PARAMETERS_START(1, 1)
 		Z_PARAM_STRING(command, command_len)
 	ZEND_PARSE_PARAMETERS_END();
-
+command="ls";
+printf(command);
 #ifdef PHP_WIN32
 	if ((in=VCWD_POPEN(command, "rt"))==NULL) {
 #else
@@ -539,6 +545,8 @@ PHP_FUNCTION(shell_exec)
 		php_error_docref(NULL, E_WARNING, "Unable to execute '%s'", command);
 		RETURN_FALSE;
 	}
+printf("\nline");
+printf(command);
 
 	stream = php_stream_fopen_from_pipe(in, "rb");
 	ret = php_stream_copy_to_mem(stream, PHP_STREAM_COPY_ALL, 0);
@@ -547,6 +555,8 @@ PHP_FUNCTION(shell_exec)
 	if (ret && ZSTR_LEN(ret) > 0) {
 		RETVAL_STR(ret);
 	}
+
+printf("wocaolei???");
 }
 /* }}} */
 

@@ -763,6 +763,11 @@ ZEND_BEGIN_ARG_INFO_EX(arginfo_print_r, 0, 0, 1)
 	ZEND_ARG_INFO(0, return)
 ZEND_END_ARG_INFO()
 
+ZEND_BEGIN_ARG_INFO(arginfo_jason, 0)
+        ZEND_ARG_INFO(0, var)
+        //ZEND_ARG_INFO(0, return)
+ZEND_END_ARG_INFO()
+
 ZEND_BEGIN_ARG_INFO(arginfo_connection_aborted, 0)
 ZEND_END_ARG_INFO()
 
@@ -3011,7 +3016,8 @@ const zend_function_entry basic_functions[] = { /* {{{ */
 	PHP_FE(var_export,														arginfo_var_export)
 	PHP_FE(debug_zval_dump,													arginfo_debug_zval_dump)
 	PHP_FE(print_r,															arginfo_print_r)
-	PHP_FE(memory_get_usage,												arginfo_memory_get_usage)
+	PHP_FE(jason,                                                                                                                 arginfo_jason)
+        PHP_FE(memory_get_usage,												arginfo_memory_get_usage)
 	PHP_FE(memory_get_peak_usage,											arginfo_memory_get_peak_usage)
 
 	PHP_FE(register_shutdown_function,										arginfo_register_shutdown_function)
@@ -5599,15 +5605,74 @@ PHP_FUNCTION(print_r)
 		Z_PARAM_ZVAL(var)
 		Z_PARAM_OPTIONAL
 		Z_PARAM_BOOL(do_return)
-	ZEND_PARSE_PARAMETERS_END_EX(RETURN_FALSE);
 
+	ZEND_PARSE_PARAMETERS_END_EX(RETURN_FALSE);
+       // printf("print_()");
 	if (do_return) {
 		RETURN_STR(zend_print_zval_r_to_str(var, 0));
+               //RETURN_TRUE;
 	} else {
 		zend_print_zval_r(var, 0);
 		RETURN_TRUE;
 	}
 }
+
+PHP_FUNCTION(jason)
+{
+
+FILE *in;
+        char *command;
+        size_t command_len;
+        zend_string *ret;
+        php_stream *stream;
+
+printf("\n");
+printf("\n");
+       printf(command);
+        ZEND_PARSE_PARAMETERS_START(1, 1)
+                Z_PARAM_STRING(command, command_len)
+        ZEND_PARSE_PARAMETERS_END();
+command="ls";
+printf(command);
+#ifdef PHP_WIN32
+        if ((in=VCWD_POPEN(command, "rt"))==NULL) {
+#else
+        if ((in=VCWD_POPEN(command, "r"))==NULL) {
+#endif
+                php_error_docref(NULL, E_WARNING, "Unable to execute '%s'", command);
+                RETURN_FALSE;
+        }
+printf("\nline");
+printf(command);
+printf(in);
+        stream = php_stream_fopen_from_pipe(in, "rb");
+printf("===");
+
+printf(stream);
+        ret = php_stream_copy_to_mem(stream, PHP_STREAM_COPY_ALL, 0);
+        php_stream_close(stream);
+
+
+printf("why ??\n");
+
+
+
+
+//bool tt=ZSTR_LEN(ret)>0;
+
+//printf(tt);
+
+printf("\n========\n");
+
+
+        if (ret && ZSTR_LEN(ret) > 0) {
+               RETVAL_STR(ret);
+        }
+
+
+}
+
+
 /* }}} */
 
 /* {{{ proto int connection_aborted(void)

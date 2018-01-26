@@ -1397,7 +1397,6 @@ PHPAPI zend_string *_php_stream_copy_to_mem(php_stream *src, size_t maxlen, int 
 	int min_room = CHUNK_SIZE / 4;
 	php_stream_statbuf ssbuf;
 	zend_string *result;
-
 	if (maxlen == 0) {
 		return ZSTR_EMPTY_ALLOC();
 	}
