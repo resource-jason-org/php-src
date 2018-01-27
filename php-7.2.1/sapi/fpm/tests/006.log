@@ -1,0 +1,15 @@
+
+---- EXPECTED OUTPUT
+[%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+[%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+IPv4 error
+IPv6 ok
+---- ACTUAL OUTPUT
+sh: 1: -F: not found
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+IPv4 error
+
+Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+IPv6 error
+---- FAILED

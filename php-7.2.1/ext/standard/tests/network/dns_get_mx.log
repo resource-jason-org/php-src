@@ -1,0 +1,9 @@
+
+---- EXPECTED OUTPUT
+Hosts: %i, weights: %i
+Hosts: %i, weights: %i
+Hosts: %i, weights: %i
+---- ACTUAL OUTPUT
+Hosts: 1, weights: 1
+Hosts: 0, weights: 0
+---- FAILED

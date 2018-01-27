@@ -1,0 +1,2 @@
+001+ Fatal error: Uncaught BadMethodCallException: phar "/home/php-src/php-7.2.1/ext/phar/tests/bug69958.tar" exists and must be unlinked prior to conversion in /home/php-src/php-7.2.1/ext/phar/tests/bug69958.php:3
+001- Fatal error: Uncaught exception 'BadMethodCallException' with message 'phar "%s/bug69958.tar" exists and must be unlinked prior to conversion' in %s/bug69958.php:%d

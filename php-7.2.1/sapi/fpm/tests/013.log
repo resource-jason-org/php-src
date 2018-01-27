@@ -1,0 +1,8 @@
+
+---- EXPECTED OUTPUT
+Started
+Done
+---- ACTUAL OUTPUT
+sh: 1: -F: not found
+Done
+---- FAILED

@@ -1,0 +1,124 @@
+001+ sh: 1: -F: not found
+002+ 
+003+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+001- [%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+002- [%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+003- Done
+004+ 
+005+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+006+ 
+007+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+008+ 
+009+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+010+ 
+011+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+012+ 
+013+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+014+ 
+015+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+016+ 
+017+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+018+ 
+019+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+020+ 
+021+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+022+ 
+023+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+024+ 
+025+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+026+ 
+027+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+028+ 
+029+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+030+ 
+031+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+032+ 
+033+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+034+ 
+035+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+036+ 
+037+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+038+ 
+039+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+040+ 
+041+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+042+ 
+043+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+044+ 
+045+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+046+ 
+047+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+048+ 
+049+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+050+ 
+051+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+052+ 
+053+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+054+ 
+055+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+056+ 
+057+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+058+ 
+059+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+060+ 
+061+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+062+ 
+063+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+064+ 
+065+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+066+ 
+067+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+068+ 
+069+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+070+ 
+071+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+072+ 
+073+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+074+ 
+075+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+076+ 
+077+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+078+ 
+079+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+080+ 
+081+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+082+ 
+083+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+084+ 
+085+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+086+ 
+087+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+088+ 
+089+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+090+ 
+091+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+092+ 
+093+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+094+ 
+095+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+096+ 
+097+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+098+ 
+099+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+100+ 
+101+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+102+ 
+103+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+104+ 
+105+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+106+ 
+107+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+108+ 
+109+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+110+ 
+111+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+112+ 
+113+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+114+ 
+115+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+116+ 
+117+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+118+ 
+119+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24
+120+ 
+121+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/003.php on line 24

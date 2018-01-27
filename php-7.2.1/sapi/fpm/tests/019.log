@@ -1,0 +1,26 @@
+
+---- EXPECTED OUTPUT
+[%s] NOTICE: fpm is running, pid %d
+[%s] NOTICE: ready to handle connections
+Ping ok
+File php-fpm.log.tmp exists
+File php-fpm.acc.tmp exists
+File php-fpm.slw.tmp exists
+File php-fpm.pid.tmp exists
+[%s] NOTICE: Terminating ...
+[%s] NOTICE: exiting, bye-bye!
+File php-fpm.pid.tmp removed
+127.0.0.1 -  %s "GET /ping" 200
+---- ACTUAL OUTPUT
+sh: 1: -F: not found
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Ping error
+File php-fpm.log.tmp missing
+File php-fpm.acc.tmp missing
+File php-fpm.slw.tmp missing
+File php-fpm.pid.tmp missing
+File php-fpm.pid.tmp removed
+
+Warning: readfile(/home/php-src/php-7.2.1/sapi/fpm/tests/php-fpm.acc.tmp): failed to open stream: No such file or directory in /home/php-src/php-7.2.1/sapi/fpm/tests/019.php on line 48
+---- FAILED

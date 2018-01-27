@@ -1,0 +1,8 @@
+[%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+[%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+int(%d)
+IPv4 ok
+int(%d)
+IPv6 ok
+127.0.0.1 %s "GET /ping" 200
+::1 %s "GET /ping" 200

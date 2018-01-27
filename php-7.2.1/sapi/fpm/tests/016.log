@@ -1,0 +1,36 @@
+
+---- EXPECTED OUTPUT
+[%s] NOTICE: [pool aaaa] 'user' directive is ignored when FPM is not running as root
+[%s] NOTICE: [pool bbbb] 'user' directive is ignored when FPM is not running as root
+[%s] NOTICE: [pool cccc] 'user' directive is ignored when FPM is not running as root
+[%s] NOTICE: [pool dddd] 'user' directive is ignored when FPM is not running as root
+[%s] NOTICE: [pool eeee] 'user' directive is ignored when FPM is not running as root
+[%s] NOTICE: fpm is running, pid %d
+[%s] NOTICE: ready to handle connections
+OK cccc
+OK aaaa
+OK eeee
+OK dddd
+OK bbbb
+[%s] NOTICE: Terminating ...
+[%s] NOTICE: exiting, bye-bye!
+Done
+---- ACTUAL OUTPUT
+sh: 1: -F: not found
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9009 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9010 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9011 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9012 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+Done
+---- FAILED

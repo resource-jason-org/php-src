@@ -1,0 +1,8 @@
+[%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+[%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+int(%d)
+Dynamic ok
+int(%d)
+OnDemand ok
+int(%d)
+Static ok

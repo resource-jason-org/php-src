@@ -1,0 +1,4 @@
+sh: 1: -F: not found
+
+Warning: fsockopen(): unable to connect to unix:///home/php-src/php-7.2.1/sapi/fpm/tests/php-fpm.sock:-1 (No such file or directory) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+UDS error

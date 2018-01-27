@@ -1,0 +1,21 @@
+001+ sh: 1: -F: not found
+002+ 
+003+ Warning: fsockopen(): unable to connect to unix:///home/php-src/php-7.2.1/sapi/fpm/tests/php-fpm.sock:-1 (No such file or directory) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+004+ UDS error
+005+ getfacl: /home/php-src/php-7.2.1/sapi/fpm/tests/php-fpm.sock: 没有那个文件或目录
+001- [%s] NOTICE: fpm is running, pid %d
+002- [%s] NOTICE: ready to handle connections
+003- int(%d)
+004- UDS ok
+005- user::rw-
+006- user:%s:rw-
+007- user:%s:rw-
+008- user:%s:rw-
+009- group::---
+010- group:%s:rw-
+011- group:%s:rw-
+012- mask::rw-
+013- other::---
+014- 
+015- [%s] NOTICE: Terminating ...
+016- [%s] NOTICE: exiting, bye-bye!

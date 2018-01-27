@@ -1,0 +1,15 @@
+002+ 
+003+ Notice: unserialize(): Error at offset 55 of 56 bytes in /home/php-src/php-7.2.1/ext/standard/tests/serialize/bug70219.php on line 16
+004+ bool(false)
+002- array(2) {
+003-   [0]=>
+004-   object(obj)#%d (1) {
+005-     ["data"]=>
+006-     NULL
+007-   }
+008-   [1]=>
+009-   &array(1) {
+010-     ["data"]=>
+011-     NULL
+012-   }
+013- }

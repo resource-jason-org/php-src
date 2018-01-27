@@ -1,0 +1,11 @@
+[%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+[%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+int(%d)
+IPv4 ok
+[%d-%s-%d %d:%d:%d] NOTICE: Reloading in progress ...
+[%d-%s-%d %d:%d:%d] NOTICE: reloading: %s
+[%d-%s-%d %d:%d:%d] NOTICE: using inherited socket fd=%d, "127.0.0.1:%d"
+[%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+[%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+int(%d)
+IPv4 ok

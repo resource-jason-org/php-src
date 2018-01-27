@@ -1,0 +1,50 @@
+
+---- EXPECTED OUTPUT
+Started
+Error 2
+[%s] NOTICE: [pool pool1] pm.start_servers is not set. It's been set to 2.
+[%s] NOTICE: [pool pool1] 'user' directive is ignored when FPM is not running as root
+[%s] NOTICE: fpm is running, pid %d
+[%s] NOTICE: ready to handle connections
+[%s] WARNING: [pool pool2] child %d said into stderr: "ERROR: Wrong IP address 'xxx' in listen.allowed_clients"
+[%s] WARNING: [pool pool2] child %d said into stderr: "ERROR: There are no allowed %s"
+[%s] WARNING: [pool pool2] child %d said into stderr: "ERROR: Connection disallowed: IP address '127.0.0.1' has been dropped."
+[%s] NOTICE: Terminating ...
+[%s] NOTICE: exiting, bye-bye!
+Done
+---- ACTUAL OUTPUT
+Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 1
+
+Warning: fsockopen(): unable to connect to 127.0.0.1:9009 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+Error 2
+sh: 1: -F: not found
+Done
+---- FAILED

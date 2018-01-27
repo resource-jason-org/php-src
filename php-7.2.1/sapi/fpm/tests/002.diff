@@ -1,0 +1,4 @@
+001+ sh: 1: -F: not found
+001- [%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+002- [%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+003- Done

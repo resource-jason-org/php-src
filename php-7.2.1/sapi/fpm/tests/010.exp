@@ -1,0 +1,26 @@
+[%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+[%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+X-Powered-By: PHP/%s
+Expires: %s
+Cache-Control: %s
+Content-type: text/plain%s
+
+pool:                 unconfined
+process manager:      static
+start time:           %s
+start since:          %d
+accepted conn:        1
+listen queue:         0
+max listen queue:     0
+listen queue len:     %d
+idle processes:       0
+active processes:     1
+total processes:      1
+max active processes: 1
+max children reached: 0
+slow requests:        0
+
+bool(true)
+bool(true)
+bool(true)
+IPv4 ok

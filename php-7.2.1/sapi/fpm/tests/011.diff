@@ -1,0 +1,8 @@
+001+ sh: 1: -F: not found
+002+ 
+003+ Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+004+ IPv4 error
+001- [%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+002- [%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+003- int(%d)
+004- IPv4 ok

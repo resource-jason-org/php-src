@@ -1,0 +1,2 @@
+[%d-%s-%d %d:%d:%f] NOTICE: pid %d, fpm_socket_af_inet_listening_socket(), line %d: Failed implicitly binding to ::, retrying with 0.0.0.0
+[%d-%s-%d %d:%d:%f] ERROR: pid %d, fpm_sockets_new_listening_socket(), line %d: unable to bind listening socket for address '%d': %s

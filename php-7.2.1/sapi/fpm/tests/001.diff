@@ -1,0 +1,6 @@
+001+ sh: 1: -n: not found
+002+ NULL
+001- string(%d) "PHP %s (fpm%s (built: %s
+002- Copyright (c) 1997-20%s The PHP Group
+003- Zend Engine v%s, Copyright (c) 1998-20%s Zend Technologies
+004- "

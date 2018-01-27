@@ -1,0 +1,8 @@
+
+---- EXPECTED OUTPUT
+[%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+[%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+Done
+---- ACTUAL OUTPUT
+sh: 1: -F: not found
+---- FAILED

@@ -1,0 +1,469 @@
+
+---- EXPECTED OUTPUT
+===DONE===
+---- ACTUAL OUTPUT
+Wrong result for Africa/Addis_Ababa!
+
+Wrong result for Africa/Algiers!
+
+Wrong result for Africa/Asmara!
+
+Wrong result for Africa/Bangui!
+
+Wrong result for Africa/Blantyre!
+
+Wrong result for Africa/Brazzaville!
+
+Wrong result for Africa/Bujumbura!
+
+Wrong result for Africa/Cairo!
+
+Wrong result for Africa/Ceuta!
+
+Wrong result for Africa/Dar_es_Salaam!
+
+Wrong result for Africa/Djibouti!
+
+Wrong result for Africa/Douala!
+
+Wrong result for Africa/Gaborone!
+
+Wrong result for Africa/Harare!
+
+Wrong result for Africa/Johannesburg!
+
+Wrong result for Africa/Juba!
+
+Wrong result for Africa/Kampala!
+
+Wrong result for Africa/Khartoum!
+
+Wrong result for Africa/Kigali!
+
+Wrong result for Africa/Kinshasa!
+
+Wrong result for Africa/Lagos!
+
+Wrong result for Africa/Libreville!
+
+Wrong result for Africa/Luanda!
+
+Wrong result for Africa/Lubumbashi!
+
+Wrong result for Africa/Lusaka!
+
+Wrong result for Africa/Malabo!
+
+Wrong result for Africa/Maputo!
+
+Wrong result for Africa/Maseru!
+
+Wrong result for Africa/Mbabane!
+
+Wrong result for Africa/Mogadishu!
+
+Wrong result for Africa/Nairobi!
+
+Wrong result for Africa/Ndjamena!
+
+Wrong result for Africa/Niamey!
+
+Wrong result for Africa/Porto-Novo!
+
+Wrong result for Africa/Tripoli!
+
+Wrong result for Africa/Tunis!
+
+Wrong result for Africa/Windhoek!
+
+Wrong result for Antarctica/Casey!
+
+Wrong result for Antarctica/Davis!
+
+Wrong result for Antarctica/DumontDUrville!
+
+Wrong result for Antarctica/Macquarie!
+
+Wrong result for Antarctica/Mawson!
+
+Wrong result for Antarctica/McMurdo!
+
+Wrong result for Antarctica/Syowa!
+
+Wrong result for Antarctica/Vostok!
+
+Wrong result for Arctic/Longyearbyen!
+
+Wrong result for Asia/Aden!
+
+Wrong result for Asia/Almaty!
+
+Wrong result for Asia/Amman!
+
+Wrong result for Asia/Anadyr!
+
+Wrong result for Asia/Aqtau!
+
+Wrong result for Asia/Aqtobe!
+
+Wrong result for Asia/Ashgabat!
+
+Wrong result for Asia/Atyrau!
+
+Wrong result for Asia/Baghdad!
+
+Wrong result for Asia/Bahrain!
+
+Wrong result for Asia/Baku!
+
+Wrong result for Asia/Bangkok!
+
+Wrong result for Asia/Barnaul!
+
+Wrong result for Asia/Beirut!
+
+Wrong result for Asia/Bishkek!
+
+Wrong result for Asia/Brunei!
+
+Wrong result for Asia/Chita!
+
+Wrong result for Asia/Choibalsan!
+
+Wrong result for Asia/Colombo!
+
+Wrong result for Asia/Damascus!
+
+Wrong result for Asia/Dhaka!
+
+Wrong result for Asia/Dili!
+
+Wrong result for Asia/Dubai!
+
+Wrong result for Asia/Dushanbe!
+
+Wrong result for Asia/Famagusta!
+
+Wrong result for Asia/Gaza!
+
+Wrong result for Asia/Hebron!
+
+Wrong result for Asia/Ho_Chi_Minh!
+
+Wrong result for Asia/Hong_Kong!
+
+Wrong result for Asia/Hovd!
+
+Wrong result for Asia/Irkutsk!
+
+Wrong result for Asia/Jakarta!
+
+Wrong result for Asia/Jayapura!
+
+Wrong result for Asia/Jerusalem!
+
+Wrong result for Asia/Kabul!
+
+Wrong result for Asia/Kamchatka!
+
+Wrong result for Asia/Karachi!
+
+Wrong result for Asia/Kathmandu!
+
+Wrong result for Asia/Khandyga!
+
+Wrong result for Asia/Kolkata!
+
+Wrong result for Asia/Krasnoyarsk!
+
+Wrong result for Asia/Kuala_Lumpur!
+
+Wrong result for Asia/Kuching!
+
+Wrong result for Asia/Kuwait!
+
+Wrong result for Asia/Macau!
+
+Wrong result for Asia/Magadan!
+
+Wrong result for Asia/Makassar!
+
+Wrong result for Asia/Manila!
+
+Wrong result for Asia/Muscat!
+
+Wrong result for Asia/Nicosia!
+
+Wrong result for Asia/Novokuznetsk!
+
+Wrong result for Asia/Novosibirsk!
+
+Wrong result for Asia/Omsk!
+
+Wrong result for Asia/Oral!
+
+Wrong result for Asia/Phnom_Penh!
+
+Wrong result for Asia/Pontianak!
+
+Wrong result for Asia/Pyongyang!
+
+Wrong result for Asia/Qatar!
+
+Wrong result for Asia/Qyzylorda!
+
+Wrong result for Asia/Riyadh!
+
+Wrong result for Asia/Sakhalin!
+
+Wrong result for Asia/Samarkand!
+
+Wrong result for Asia/Seoul!
+
+Wrong result for Asia/Shanghai!
+
+Wrong result for Asia/Singapore!
+
+Wrong result for Asia/Srednekolymsk!
+
+Wrong result for Asia/Taipei!
+
+Wrong result for Asia/Tashkent!
+
+Wrong result for Asia/Tbilisi!
+
+Wrong result for Asia/Tehran!
+
+Wrong result for Asia/Thimphu!
+
+Wrong result for Asia/Tokyo!
+
+Wrong result for Asia/Tomsk!
+
+Wrong result for Asia/Ulaanbaatar!
+
+Wrong result for Asia/Urumqi!
+
+Wrong result for Asia/Ust-Nera!
+
+Wrong result for Asia/Vientiane!
+
+Wrong result for Asia/Vladivostok!
+
+Wrong result for Asia/Yakutsk!
+
+Wrong result for Asia/Yangon!
+
+Wrong result for Asia/Yekaterinburg!
+
+Wrong result for Asia/Yerevan!
+
+Wrong result for Australia/Adelaide!
+
+Wrong result for Australia/Brisbane!
+
+Wrong result for Australia/Broken_Hill!
+
+Wrong result for Australia/Currie!
+
+Wrong result for Australia/Darwin!
+
+Wrong result for Australia/Eucla!
+
+Wrong result for Australia/Hobart!
+
+Wrong result for Australia/Lindeman!
+
+Wrong result for Australia/Lord_Howe!
+
+Wrong result for Australia/Melbourne!
+
+Wrong result for Australia/Perth!
+
+Wrong result for Australia/Sydney!
+
+Wrong result for Europe/Amsterdam!
+
+Wrong result for Europe/Andorra!
+
+Wrong result for Europe/Astrakhan!
+
+Wrong result for Europe/Athens!
+
+Wrong result for Europe/Belgrade!
+
+Wrong result for Europe/Berlin!
+
+Wrong result for Europe/Bratislava!
+
+Wrong result for Europe/Brussels!
+
+Wrong result for Europe/Bucharest!
+
+Wrong result for Europe/Budapest!
+
+Wrong result for Europe/Busingen!
+
+Wrong result for Europe/Chisinau!
+
+Wrong result for Europe/Copenhagen!
+
+Wrong result for Europe/Gibraltar!
+
+Wrong result for Europe/Helsinki!
+
+Wrong result for Europe/Istanbul!
+
+Wrong result for Europe/Kaliningrad!
+
+Wrong result for Europe/Kiev!
+
+Wrong result for Europe/Kirov!
+
+Wrong result for Europe/Ljubljana!
+
+Wrong result for Europe/Luxembourg!
+
+Wrong result for Europe/Madrid!
+
+Wrong result for Europe/Malta!
+
+Wrong result for Europe/Mariehamn!
+
+Wrong result for Europe/Minsk!
+
+Wrong result for Europe/Monaco!
+
+Wrong result for Europe/Moscow!
+
+Wrong result for Europe/Oslo!
+
+Wrong result for Europe/Paris!
+
+Wrong result for Europe/Podgorica!
+
+Wrong result for Europe/Prague!
+
+Wrong result for Europe/Riga!
+
+Wrong result for Europe/Rome!
+
+Wrong result for Europe/Samara!
+
+Wrong result for Europe/San_Marino!
+
+Wrong result for Europe/Sarajevo!
+
+Wrong result for Europe/Saratov!
+
+Wrong result for Europe/Simferopol!
+
+Wrong result for Europe/Skopje!
+
+Wrong result for Europe/Sofia!
+
+Wrong result for Europe/Stockholm!
+
+Wrong result for Europe/Tallinn!
+
+Wrong result for Europe/Tirane!
+
+Wrong result for Europe/Ulyanovsk!
+
+Wrong result for Europe/Uzhgorod!
+
+Wrong result for Europe/Vaduz!
+
+Wrong result for Europe/Vatican!
+
+Wrong result for Europe/Vienna!
+
+Wrong result for Europe/Vilnius!
+
+Wrong result for Europe/Volgograd!
+
+Wrong result for Europe/Warsaw!
+
+Wrong result for Europe/Zagreb!
+
+Wrong result for Europe/Zaporozhye!
+
+Wrong result for Europe/Zurich!
+
+Wrong result for Indian/Antananarivo!
+
+Wrong result for Indian/Chagos!
+
+Wrong result for Indian/Christmas!
+
+Wrong result for Indian/Cocos!
+
+Wrong result for Indian/Comoro!
+
+Wrong result for Indian/Kerguelen!
+
+Wrong result for Indian/Mahe!
+
+Wrong result for Indian/Maldives!
+
+Wrong result for Indian/Mauritius!
+
+Wrong result for Indian/Mayotte!
+
+Wrong result for Indian/Reunion!
+
+Wrong result for Pacific/Apia!
+
+Wrong result for Pacific/Auckland!
+
+Wrong result for Pacific/Bougainville!
+
+Wrong result for Pacific/Chatham!
+
+Wrong result for Pacific/Chuuk!
+
+Wrong result for Pacific/Efate!
+
+Wrong result for Pacific/Enderbury!
+
+Wrong result for Pacific/Fakaofo!
+
+Wrong result for Pacific/Fiji!
+
+Wrong result for Pacific/Funafuti!
+
+Wrong result for Pacific/Guadalcanal!
+
+Wrong result for Pacific/Guam!
+
+Wrong result for Pacific/Kiritimati!
+
+Wrong result for Pacific/Kosrae!
+
+Wrong result for Pacific/Kwajalein!
+
+Wrong result for Pacific/Majuro!
+
+Wrong result for Pacific/Nauru!
+
+Wrong result for Pacific/Norfolk!
+
+Wrong result for Pacific/Noumea!
+
+Wrong result for Pacific/Palau!
+
+Wrong result for Pacific/Pohnpei!
+
+Wrong result for Pacific/Port_Moresby!
+
+Wrong result for Pacific/Saipan!
+
+Wrong result for Pacific/Tarawa!
+
+Wrong result for Pacific/Tongatapu!
+
+Wrong result for Pacific/Wake!
+
+Wrong result for Pacific/Wallis!
+===DONE===
+---- FAILED

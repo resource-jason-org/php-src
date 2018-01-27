@@ -1,0 +1,20 @@
+001+ sh: 1: -F: not found
+002+ 
+003+ Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+004+ Ping error
+005+ File php-fpm.log.tmp missing
+006+ File php-fpm.acc.tmp missing
+007+ File php-fpm.slw.tmp missing
+008+ File php-fpm.pid.tmp missing
+001- [%s] NOTICE: fpm is running, pid %d
+002- [%s] NOTICE: ready to handle connections
+003- Ping ok
+004- File php-fpm.log.tmp exists
+005- File php-fpm.acc.tmp exists
+006- File php-fpm.slw.tmp exists
+007- File php-fpm.pid.tmp exists
+008- [%s] NOTICE: Terminating ...
+009- [%s] NOTICE: exiting, bye-bye!
+010+ 
+011- 127.0.0.1 -  %s "GET /ping" 200
+011+ Warning: readfile(/home/php-src/php-7.2.1/sapi/fpm/tests/php-fpm.acc.tmp): failed to open stream: No such file or directory in /home/php-src/php-7.2.1/sapi/fpm/tests/019.php on line 48

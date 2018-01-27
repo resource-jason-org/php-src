@@ -1,0 +1,16 @@
+[%s] NOTICE: fpm is running, pid %d
+[%s] NOTICE: ready to handle connections
+int(%d)
+UDS ok
+user::rw-
+user:%s:rw-
+user:%s:rw-
+user:%s:rw-
+group::---
+group:%s:rw-
+group:%s:rw-
+mask::rw-
+other::---
+
+[%s] NOTICE: Terminating ...
+[%s] NOTICE: exiting, bye-bye!

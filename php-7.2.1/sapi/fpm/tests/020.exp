@@ -1,0 +1,8 @@
+[%s] NOTICE: fpm is running, pid %d
+[%s] NOTICE: ready to handle connections
+Ping ok
+File php-fpm.acc.tmp exists
+File php-fpm.slw.tmp exists
+[%s] NOTICE: Terminating ...
+[%s] NOTICE: exiting, bye-bye!
+127.0.0.1 -  %s "GET /ping" 200

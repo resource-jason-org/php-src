@@ -1,0 +1,28 @@
+001+ sh: 1: -F: not found
+001- [%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+002- [%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+003- X-Powered-By: PHP/%s
+004- Expires: %s
+005- Cache-Control: %s
+006- Content-type: text/plain%s
+003+ Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+004+ IPv4 error
+008- pool:                 unconfined
+009- process manager:      static
+010- start time:           %s
+011- start since:          %d
+012- accepted conn:        1
+013- listen queue:         0
+014- max listen queue:     0
+015- listen queue len:     %d
+016- idle processes:       0
+017- active processes:     1
+018- total processes:      1
+019- max active processes: 1
+020- max children reached: 0
+021- slow requests:        0
+022- 
+023- bool(true)
+024- bool(true)
+025- bool(true)
+026- IPv4 ok

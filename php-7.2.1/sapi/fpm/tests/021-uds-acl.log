@@ -1,0 +1,25 @@
+
+---- EXPECTED OUTPUT
+[%s] NOTICE: fpm is running, pid %d
+[%s] NOTICE: ready to handle connections
+int(%d)
+UDS ok
+user::rw-
+user:%s:rw-
+user:%s:rw-
+user:%s:rw-
+group::---
+group:%s:rw-
+group:%s:rw-
+mask::rw-
+other::---
+
+[%s] NOTICE: Terminating ...
+[%s] NOTICE: exiting, bye-bye!
+---- ACTUAL OUTPUT
+sh: 1: -F: not found
+
+Warning: fsockopen(): unable to connect to unix:///home/php-src/php-7.2.1/sapi/fpm/tests/php-fpm.sock:-1 (No such file or directory) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+UDS error
+getfacl: /home/php-src/php-7.2.1/sapi/fpm/tests/php-fpm.sock: 没有那个文件或目录
+---- FAILED

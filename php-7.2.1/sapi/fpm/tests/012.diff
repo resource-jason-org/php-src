@@ -1,0 +1,18 @@
+001+ sh: 1: -F: not found
+002+ 
+003+ Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+004+ IPv4 error
+005+ 
+006+ Warning: file_get_contents(/home/php-src/php-7.2.1/sapi/fpm/tests/php-fpm.pid): failed to open stream: No such file or directory in /home/php-src/php-7.2.1/sapi/fpm/tests/012.php on line 34
+007+ PID not found
+001- [%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+002- [%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+003- int(%d)
+004- IPv4 ok
+005- [%d-%s-%d %d:%d:%d] NOTICE: Reloading in progress ...
+006- [%d-%s-%d %d:%d:%d] NOTICE: reloading: %s
+007- [%d-%s-%d %d:%d:%d] NOTICE: using inherited socket fd=%d, "127.0.0.1:%d"
+008- [%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+009- [%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+010- int(%d)
+011- IPv4 ok

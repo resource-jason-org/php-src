@@ -1,0 +1,18 @@
+001+ sh: 1: -F: not found
+002+ 
+003+ Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+004+ Dynamic error
+005+ 
+006+ Warning: fsockopen(): unable to connect to 127.0.0.1:9009 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+007+ OnDemand error
+008+ 
+001- [%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+002- [%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+003- int(%d)
+004- Dynamic ok
+005- int(%d)
+006- OnDemand ok
+007- int(%d)
+008- Static ok
+009+ Warning: fsockopen(): unable to connect to 127.0.0.1:9010 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+010+ Static error

@@ -1,0 +1,8 @@
+#! /bin/sh
+#
+# Created by configure
+
+'./configure' \
+'--prefix=/home/php-src/php-src/' \
+'-with-config-file-path=/home/php-src/php-src/' \
+"$@"

@@ -1,0 +1,17 @@
+001+ sh: 1: -F: not found
+002+ 
+003+ Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+004+ IPv4 error
+005+ 
+006+ Warning: fsockopen(): unable to connect to [::1]:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+007+ IPv6 error
+008+ 
+001- [%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+002- [%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+003- int(%d)
+004- IPv4 ok
+005- int(%d)
+006- IPv6 ok
+007- 127.0.0.1 %s "GET /ping" 200
+008- ::1 %s "GET /ping" 200
+009+ Warning: file_get_contents(/home/php-src/php-7.2.1/sapi/fpm/tests/php-fpm.acc.tmp): failed to open stream: No such file or directory in /home/php-src/php-7.2.1/sapi/fpm/tests/007.php on line 44

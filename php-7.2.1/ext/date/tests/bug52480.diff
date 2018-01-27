@@ -1,0 +1,465 @@
+001+ Wrong result for Africa/Addis_Ababa!
+001- ===DONE===
+002+ 
+003+ Wrong result for Africa/Algiers!
+004+ 
+005+ Wrong result for Africa/Asmara!
+006+ 
+007+ Wrong result for Africa/Bangui!
+008+ 
+009+ Wrong result for Africa/Blantyre!
+010+ 
+011+ Wrong result for Africa/Brazzaville!
+012+ 
+013+ Wrong result for Africa/Bujumbura!
+014+ 
+015+ Wrong result for Africa/Cairo!
+016+ 
+017+ Wrong result for Africa/Ceuta!
+018+ 
+019+ Wrong result for Africa/Dar_es_Salaam!
+020+ 
+021+ Wrong result for Africa/Djibouti!
+022+ 
+023+ Wrong result for Africa/Douala!
+024+ 
+025+ Wrong result for Africa/Gaborone!
+026+ 
+027+ Wrong result for Africa/Harare!
+028+ 
+029+ Wrong result for Africa/Johannesburg!
+030+ 
+031+ Wrong result for Africa/Juba!
+032+ 
+033+ Wrong result for Africa/Kampala!
+034+ 
+035+ Wrong result for Africa/Khartoum!
+036+ 
+037+ Wrong result for Africa/Kigali!
+038+ 
+039+ Wrong result for Africa/Kinshasa!
+040+ 
+041+ Wrong result for Africa/Lagos!
+042+ 
+043+ Wrong result for Africa/Libreville!
+044+ 
+045+ Wrong result for Africa/Luanda!
+046+ 
+047+ Wrong result for Africa/Lubumbashi!
+048+ 
+049+ Wrong result for Africa/Lusaka!
+050+ 
+051+ Wrong result for Africa/Malabo!
+052+ 
+053+ Wrong result for Africa/Maputo!
+054+ 
+055+ Wrong result for Africa/Maseru!
+056+ 
+057+ Wrong result for Africa/Mbabane!
+058+ 
+059+ Wrong result for Africa/Mogadishu!
+060+ 
+061+ Wrong result for Africa/Nairobi!
+062+ 
+063+ Wrong result for Africa/Ndjamena!
+064+ 
+065+ Wrong result for Africa/Niamey!
+066+ 
+067+ Wrong result for Africa/Porto-Novo!
+068+ 
+069+ Wrong result for Africa/Tripoli!
+070+ 
+071+ Wrong result for Africa/Tunis!
+072+ 
+073+ Wrong result for Africa/Windhoek!
+074+ 
+075+ Wrong result for Antarctica/Casey!
+076+ 
+077+ Wrong result for Antarctica/Davis!
+078+ 
+079+ Wrong result for Antarctica/DumontDUrville!
+080+ 
+081+ Wrong result for Antarctica/Macquarie!
+082+ 
+083+ Wrong result for Antarctica/Mawson!
+084+ 
+085+ Wrong result for Antarctica/McMurdo!
+086+ 
+087+ Wrong result for Antarctica/Syowa!
+088+ 
+089+ Wrong result for Antarctica/Vostok!
+090+ 
+091+ Wrong result for Arctic/Longyearbyen!
+092+ 
+093+ Wrong result for Asia/Aden!
+094+ 
+095+ Wrong result for Asia/Almaty!
+096+ 
+097+ Wrong result for Asia/Amman!
+098+ 
+099+ Wrong result for Asia/Anadyr!
+100+ 
+101+ Wrong result for Asia/Aqtau!
+102+ 
+103+ Wrong result for Asia/Aqtobe!
+104+ 
+105+ Wrong result for Asia/Ashgabat!
+106+ 
+107+ Wrong result for Asia/Atyrau!
+108+ 
+109+ Wrong result for Asia/Baghdad!
+110+ 
+111+ Wrong result for Asia/Bahrain!
+112+ 
+113+ Wrong result for Asia/Baku!
+114+ 
+115+ Wrong result for Asia/Bangkok!
+116+ 
+117+ Wrong result for Asia/Barnaul!
+118+ 
+119+ Wrong result for Asia/Beirut!
+120+ 
+121+ Wrong result for Asia/Bishkek!
+122+ 
+123+ Wrong result for Asia/Brunei!
+124+ 
+125+ Wrong result for Asia/Chita!
+126+ 
+127+ Wrong result for Asia/Choibalsan!
+128+ 
+129+ Wrong result for Asia/Colombo!
+130+ 
+131+ Wrong result for Asia/Damascus!
+132+ 
+133+ Wrong result for Asia/Dhaka!
+134+ 
+135+ Wrong result for Asia/Dili!
+136+ 
+137+ Wrong result for Asia/Dubai!
+138+ 
+139+ Wrong result for Asia/Dushanbe!
+140+ 
+141+ Wrong result for Asia/Famagusta!
+142+ 
+143+ Wrong result for Asia/Gaza!
+144+ 
+145+ Wrong result for Asia/Hebron!
+146+ 
+147+ Wrong result for Asia/Ho_Chi_Minh!
+148+ 
+149+ Wrong result for Asia/Hong_Kong!
+150+ 
+151+ Wrong result for Asia/Hovd!
+152+ 
+153+ Wrong result for Asia/Irkutsk!
+154+ 
+155+ Wrong result for Asia/Jakarta!
+156+ 
+157+ Wrong result for Asia/Jayapura!
+158+ 
+159+ Wrong result for Asia/Jerusalem!
+160+ 
+161+ Wrong result for Asia/Kabul!
+162+ 
+163+ Wrong result for Asia/Kamchatka!
+164+ 
+165+ Wrong result for Asia/Karachi!
+166+ 
+167+ Wrong result for Asia/Kathmandu!
+168+ 
+169+ Wrong result for Asia/Khandyga!
+170+ 
+171+ Wrong result for Asia/Kolkata!
+172+ 
+173+ Wrong result for Asia/Krasnoyarsk!
+174+ 
+175+ Wrong result for Asia/Kuala_Lumpur!
+176+ 
+177+ Wrong result for Asia/Kuching!
+178+ 
+179+ Wrong result for Asia/Kuwait!
+180+ 
+181+ Wrong result for Asia/Macau!
+182+ 
+183+ Wrong result for Asia/Magadan!
+184+ 
+185+ Wrong result for Asia/Makassar!
+186+ 
+187+ Wrong result for Asia/Manila!
+188+ 
+189+ Wrong result for Asia/Muscat!
+190+ 
+191+ Wrong result for Asia/Nicosia!
+192+ 
+193+ Wrong result for Asia/Novokuznetsk!
+194+ 
+195+ Wrong result for Asia/Novosibirsk!
+196+ 
+197+ Wrong result for Asia/Omsk!
+198+ 
+199+ Wrong result for Asia/Oral!
+200+ 
+201+ Wrong result for Asia/Phnom_Penh!
+202+ 
+203+ Wrong result for Asia/Pontianak!
+204+ 
+205+ Wrong result for Asia/Pyongyang!
+206+ 
+207+ Wrong result for Asia/Qatar!
+208+ 
+209+ Wrong result for Asia/Qyzylorda!
+210+ 
+211+ Wrong result for Asia/Riyadh!
+212+ 
+213+ Wrong result for Asia/Sakhalin!
+214+ 
+215+ Wrong result for Asia/Samarkand!
+216+ 
+217+ Wrong result for Asia/Seoul!
+218+ 
+219+ Wrong result for Asia/Shanghai!
+220+ 
+221+ Wrong result for Asia/Singapore!
+222+ 
+223+ Wrong result for Asia/Srednekolymsk!
+224+ 
+225+ Wrong result for Asia/Taipei!
+226+ 
+227+ Wrong result for Asia/Tashkent!
+228+ 
+229+ Wrong result for Asia/Tbilisi!
+230+ 
+231+ Wrong result for Asia/Tehran!
+232+ 
+233+ Wrong result for Asia/Thimphu!
+234+ 
+235+ Wrong result for Asia/Tokyo!
+236+ 
+237+ Wrong result for Asia/Tomsk!
+238+ 
+239+ Wrong result for Asia/Ulaanbaatar!
+240+ 
+241+ Wrong result for Asia/Urumqi!
+242+ 
+243+ Wrong result for Asia/Ust-Nera!
+244+ 
+245+ Wrong result for Asia/Vientiane!
+246+ 
+247+ Wrong result for Asia/Vladivostok!
+248+ 
+249+ Wrong result for Asia/Yakutsk!
+250+ 
+251+ Wrong result for Asia/Yangon!
+252+ 
+253+ Wrong result for Asia/Yekaterinburg!
+254+ 
+255+ Wrong result for Asia/Yerevan!
+256+ 
+257+ Wrong result for Australia/Adelaide!
+258+ 
+259+ Wrong result for Australia/Brisbane!
+260+ 
+261+ Wrong result for Australia/Broken_Hill!
+262+ 
+263+ Wrong result for Australia/Currie!
+264+ 
+265+ Wrong result for Australia/Darwin!
+266+ 
+267+ Wrong result for Australia/Eucla!
+268+ 
+269+ Wrong result for Australia/Hobart!
+270+ 
+271+ Wrong result for Australia/Lindeman!
+272+ 
+273+ Wrong result for Australia/Lord_Howe!
+274+ 
+275+ Wrong result for Australia/Melbourne!
+276+ 
+277+ Wrong result for Australia/Perth!
+278+ 
+279+ Wrong result for Australia/Sydney!
+280+ 
+281+ Wrong result for Europe/Amsterdam!
+282+ 
+283+ Wrong result for Europe/Andorra!
+284+ 
+285+ Wrong result for Europe/Astrakhan!
+286+ 
+287+ Wrong result for Europe/Athens!
+288+ 
+289+ Wrong result for Europe/Belgrade!
+290+ 
+291+ Wrong result for Europe/Berlin!
+292+ 
+293+ Wrong result for Europe/Bratislava!
+294+ 
+295+ Wrong result for Europe/Brussels!
+296+ 
+297+ Wrong result for Europe/Bucharest!
+298+ 
+299+ Wrong result for Europe/Budapest!
+300+ 
+301+ Wrong result for Europe/Busingen!
+302+ 
+303+ Wrong result for Europe/Chisinau!
+304+ 
+305+ Wrong result for Europe/Copenhagen!
+306+ 
+307+ Wrong result for Europe/Gibraltar!
+308+ 
+309+ Wrong result for Europe/Helsinki!
+310+ 
+311+ Wrong result for Europe/Istanbul!
+312+ 
+313+ Wrong result for Europe/Kaliningrad!
+314+ 
+315+ Wrong result for Europe/Kiev!
+316+ 
+317+ Wrong result for Europe/Kirov!
+318+ 
+319+ Wrong result for Europe/Ljubljana!
+320+ 
+321+ Wrong result for Europe/Luxembourg!
+322+ 
+323+ Wrong result for Europe/Madrid!
+324+ 
+325+ Wrong result for Europe/Malta!
+326+ 
+327+ Wrong result for Europe/Mariehamn!
+328+ 
+329+ Wrong result for Europe/Minsk!
+330+ 
+331+ Wrong result for Europe/Monaco!
+332+ 
+333+ Wrong result for Europe/Moscow!
+334+ 
+335+ Wrong result for Europe/Oslo!
+336+ 
+337+ Wrong result for Europe/Paris!
+338+ 
+339+ Wrong result for Europe/Podgorica!
+340+ 
+341+ Wrong result for Europe/Prague!
+342+ 
+343+ Wrong result for Europe/Riga!
+344+ 
+345+ Wrong result for Europe/Rome!
+346+ 
+347+ Wrong result for Europe/Samara!
+348+ 
+349+ Wrong result for Europe/San_Marino!
+350+ 
+351+ Wrong result for Europe/Sarajevo!
+352+ 
+353+ Wrong result for Europe/Saratov!
+354+ 
+355+ Wrong result for Europe/Simferopol!
+356+ 
+357+ Wrong result for Europe/Skopje!
+358+ 
+359+ Wrong result for Europe/Sofia!
+360+ 
+361+ Wrong result for Europe/Stockholm!
+362+ 
+363+ Wrong result for Europe/Tallinn!
+364+ 
+365+ Wrong result for Europe/Tirane!
+366+ 
+367+ Wrong result for Europe/Ulyanovsk!
+368+ 
+369+ Wrong result for Europe/Uzhgorod!
+370+ 
+371+ Wrong result for Europe/Vaduz!
+372+ 
+373+ Wrong result for Europe/Vatican!
+374+ 
+375+ Wrong result for Europe/Vienna!
+376+ 
+377+ Wrong result for Europe/Vilnius!
+378+ 
+379+ Wrong result for Europe/Volgograd!
+380+ 
+381+ Wrong result for Europe/Warsaw!
+382+ 
+383+ Wrong result for Europe/Zagreb!
+384+ 
+385+ Wrong result for Europe/Zaporozhye!
+386+ 
+387+ Wrong result for Europe/Zurich!
+388+ 
+389+ Wrong result for Indian/Antananarivo!
+390+ 
+391+ Wrong result for Indian/Chagos!
+392+ 
+393+ Wrong result for Indian/Christmas!
+394+ 
+395+ Wrong result for Indian/Cocos!
+396+ 
+397+ Wrong result for Indian/Comoro!
+398+ 
+399+ Wrong result for Indian/Kerguelen!
+400+ 
+401+ Wrong result for Indian/Mahe!
+402+ 
+403+ Wrong result for Indian/Maldives!
+404+ 
+405+ Wrong result for Indian/Mauritius!
+406+ 
+407+ Wrong result for Indian/Mayotte!
+408+ 
+409+ Wrong result for Indian/Reunion!
+410+ 
+411+ Wrong result for Pacific/Apia!
+412+ 
+413+ Wrong result for Pacific/Auckland!
+414+ 
+415+ Wrong result for Pacific/Bougainville!
+416+ 
+417+ Wrong result for Pacific/Chatham!
+418+ 
+419+ Wrong result for Pacific/Chuuk!
+420+ 
+421+ Wrong result for Pacific/Efate!
+422+ 
+423+ Wrong result for Pacific/Enderbury!
+424+ 
+425+ Wrong result for Pacific/Fakaofo!
+426+ 
+427+ Wrong result for Pacific/Fiji!
+428+ 
+429+ Wrong result for Pacific/Funafuti!
+430+ 
+431+ Wrong result for Pacific/Guadalcanal!
+432+ 
+433+ Wrong result for Pacific/Guam!
+434+ 
+435+ Wrong result for Pacific/Kiritimati!
+436+ 
+437+ Wrong result for Pacific/Kosrae!
+438+ 
+439+ Wrong result for Pacific/Kwajalein!
+440+ 
+441+ Wrong result for Pacific/Majuro!
+442+ 
+443+ Wrong result for Pacific/Nauru!
+444+ 
+445+ Wrong result for Pacific/Norfolk!
+446+ 
+447+ Wrong result for Pacific/Noumea!
+448+ 
+449+ Wrong result for Pacific/Palau!
+450+ 
+451+ Wrong result for Pacific/Pohnpei!
+452+ 
+453+ Wrong result for Pacific/Port_Moresby!
+454+ 
+455+ Wrong result for Pacific/Saipan!
+456+ 
+457+ Wrong result for Pacific/Tarawa!
+458+ 
+459+ Wrong result for Pacific/Tongatapu!
+460+ 
+461+ Wrong result for Pacific/Wake!
+462+ 
+463+ Wrong result for Pacific/Wallis!
+464+ ===DONE===

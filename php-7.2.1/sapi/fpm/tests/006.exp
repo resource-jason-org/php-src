@@ -1,0 +1,4 @@
+[%d-%s-%d %d:%d:%d] NOTICE: fpm is running, pid %d
+[%d-%s-%d %d:%d:%d] NOTICE: ready to handle connections
+IPv4 error
+IPv6 ok

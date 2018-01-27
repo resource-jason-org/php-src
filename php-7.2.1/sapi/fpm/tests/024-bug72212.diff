@@ -1,0 +1,12 @@
+001+ sh: 1: -F: not found
+001- [%s] NOTICE: fpm is running, pid %d
+002- [%s] NOTICE: ready to handle connections
+003- Test Start
+004- string(3) "32M"
+005- string(12) "Europe/Paris"
+006- Test End
+003+ Warning: fsockopen(): unable to connect to 127.0.0.1:9008 (Connection refused) in /home/php-src/php-7.2.1/sapi/fpm/tests/fcgi.inc on line 255
+004+ Request error
+008- Request ok
+009- [%s] NOTICE: Terminating ...
+010- [%s] NOTICE: exiting, bye-bye!
