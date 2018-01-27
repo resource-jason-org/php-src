@@ -1,5 +1,6 @@
 The PHP Interpreter
 ===================
+ ./configure --prefix=/usr/local/php
 
 This is the github mirror of the official PHP repository located at
 http://git.php.net.
